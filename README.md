@@ -1,0 +1,4 @@
+ericz.com
+=========
+
+personal website
