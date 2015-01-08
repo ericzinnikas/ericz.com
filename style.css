@@ -7,10 +7,16 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
-p {
+p#links {
     font-family: 'Lato', sans-serif;
     font-size: 0.3em;
     word-spacing: 0.75em;
+}
+
+p#tagline, p#about {
+    font-family: 'Lato', sans-serif;
+    font-size: 0.275em;
+    word-spacing: 0.15em;
 }
 
 a {
