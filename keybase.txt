@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/ericz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ericz.com
+  * I am ericz (https://keybase.io/ericz) on keybase.
+  * I have a public key with fingerprint 3A0E E70B E55F D9E3 0789  46D6 882C AD20 1992 CD0C
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "3a0ee70be55fd9e3078946d6882cad201992cd0c",
+            "host": "keybase.io",
+            "key_id": "882cad201992cd0c",
+            "kid": "0101005e41303c7c7a0c3f52d30cb70c2386f2e3542d3f19b4c489596c9a7df28a5c0a",
+            "uid": "be174b7b92a53eb4adfa86702fd87500",
+            "username": "ericz"
+        },
+        "service": {
+            "hostname": "ericz.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1423681142,
+    "expire_in": 157680000,
+    "prev": "6b2108591dbf22207ba1be9a8fe5130db273038890a35ff1ff4c97cf2344600b",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owFtUn9MVWUYvlxAEBMvZBdQMzxprHbD7/y655wrW00YCRjQuP0QJ+yc73wHTsC9
+13suxI+4zAKEIDLQP1wIDJuCS2iFtgxyLFCXFYKQQ4ilRaQhGwiSjKTvsNr6o+/7
+4937vM/zfN/77j2y3tcQ6NP/9AcrtebUCZ+rvTGSwT52qqiEkJxyEWErIXLQalBU
+RxZyu9yqw0PYCFoECHFAQiyryAKiAccLjFW28jwFRZkCpCBQUAaQsBDZTk1XYBtJ
+1FC06sQYTjJVGaP/w89ZLQASX8AihqQBDTnIiQDSCkvJNIASByBF81aFQjTLYEgh
+BYmBDC+wghUKIicrFC+yEIjYLn/VTkIkx0icJFAiSyOJEWVF5K0coBSZ51gAdKKG
+3A4xD2E2cquwmCi1EBgqUCHS+9fb+G85GjrzsMrldnqc0JmL4WyPx6XZdJmnyKXz
+3kJS5j8OmZLqkPEEsaIAuTXV6SBsJGZCj6pbkgxFW3kSBwuBCl2qG2WqOoPlrDzA
+R38HFWBLq0SRgGcFUpYUiqIAJ4mkhASRVxCLJyVLFIfnxfMCEGlWUUhFYaDAQYWi
+GcYKgEToPR10OAkbjb8pZmFLTc1yiJ58NyJKg6qNW/wMPoGGNf5GfQkMQWtN/65G
+5bDJ0L401xjfGBDq827TRlT2e0VM5+mAxbN0V3HuwYyTX60/P3RuvuHL5KnDyVP5
+Sc0dI0QvmgKps32t3vJHjVLw5EhZ2sPmHXvLNwWJNbVHnzfmDkQN9uy7Ce4/1Ao/
+TxpI2Bd08c8DVRu3lra1vHI5xDjt6pC/AePvHC9JD9xBZrRVV4Sd+Tlls5/Pij0W
+Jl9bHkxND3lyj9PQZx+dudB3IzZxw9LOF0p2qj1m7t77W8anO+vnPGPbsy94d18s
+HfReij02emtu08s/1HTXBXwdbO8KXgy68bE3c6r516Fp35gZe2f5h6e0gSVt7JLU
+vDj2hP3KQu/9CfWR8thHywmfNbQeqkzMqTW6162r7R++xaYELsS0vdTyo6VTSdse
+3z85C7XliKIci7Hr+4IGNUQ1NSWju1u7zfX2w+duv1fl1x52Nn73md9mXo273T5/
+JLLuubrX07SW74biI4Yr4+xiQl7/ZdOnV6OrtsXW3csoOx/OjM9MugeCA5Y7qay3
+N59cevPbutciA/zTu333N4Webl35gtb+4EILy3ct9yftr8l58cqzcw80KTkssqM9
+rXDt8fmmvXfrLSdcz4SbFmJWvKYR4peoN1LMe0LuNNsPNNrMj6c9KPyEjio7dK1l
+W19xzwlYfV0EeRWjT1VcX0qarY64ORF/5y9vlrJhV3ic/09sftuaMLaqJfFv
+=e/Ef
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ericz
+
+==================================================================
+
