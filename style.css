@@ -29,7 +29,7 @@ a:hover {
 }
 
 /* landscape */
-@media screen and (min-device-width: 421px) {
+@media screen and (min-device-width: 421px) and (max-device-width: 740px) {
     body {
         padding-top: 1.5em;
     }
