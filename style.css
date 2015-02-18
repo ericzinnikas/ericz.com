@@ -28,13 +28,15 @@ a:hover {
     color: green;
 }
 
-@media screen and (max-device-width: 740px) and (orientation: landscape) {
+/* landscape */
+@media screen and (min-device-width: 421px) {
     body {
         padding-top: 2em;
     }
 }
 
-@media screen and (max-device-width: 740px) and (orientation: portrait) {
+/* portrait */
+@media screen and (max-device-width: 420px) {
     body {
         font-size: 2.5em;
         padding-top: 4em;
